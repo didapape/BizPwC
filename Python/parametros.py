@@ -1,0 +1,2 @@
+parametros={'connectionString': 'DRIVER={SQL Server};SERVER=ES-BPMPRO003;DATABASE=BizagiBPM;UID=Bizagi;PWD=BizagiBPM2012',
+             'urlSetEvent': 'http://es-bpmpro001/Bizagibpm/webservices/workflowenginesoa.asmx?WSDL'}

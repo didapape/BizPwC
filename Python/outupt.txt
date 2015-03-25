@@ -1,0 +1,1 @@
+<processes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns=""><process><processId>0</processId><processRadNumber>0</processRadNumber><processError><errorCode>1</errorCode><errorMessage>The user does not exists in BizAgi</errorMessage></processError></process></processes>
